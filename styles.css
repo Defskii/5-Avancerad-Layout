@@ -52,8 +52,8 @@ article {
 }
 
 footer {
-    background-color: #004fb7;
-    color: #83a3cd;
+    background-color: #4e90e8 ;
+    color: black;
     display: flex;
     justify-content: center;
     gap: 10px;
